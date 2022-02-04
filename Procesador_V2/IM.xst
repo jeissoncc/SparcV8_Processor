@@ -1,0 +1,5 @@
+set -tmpdir "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/xst/projnav.tmp"
+set -xsthdpdir "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/xst"
+elaborate
+-ifn IM.prj
+-ifmt mixed
