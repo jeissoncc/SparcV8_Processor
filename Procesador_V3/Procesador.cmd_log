@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/procesador3/Procesador3/Procesador.xst" -ofn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/procesador3/Procesador3/Procesador.syr" 
+xst -intstyle ise -ifn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/procesador3/Procesador3/Procesador.xst" -ofn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/procesador3/Procesador3/Procesador.syr" 

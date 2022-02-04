@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesador3 -o "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/procesador3/Procesador3/PC.vhi" -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work PC.vhd 
