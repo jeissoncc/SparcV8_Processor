@@ -1,0 +1,6 @@
+[Inputs]
+rst
+clk
+[Outputs]
+=sal_procesador[31:0]=
+[BiDir]
