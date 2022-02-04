@@ -1,0 +1,39 @@
+V3 16
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" 2017/10/02.18:39:47 P.20131013
+EN work/ALU 1506987595 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1506987596 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" \
+      EN work/ALU 1506987595
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" 2017/10/02.19:45:05 P.20131013
+EN work/PC 1506991510 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/PC/Behavioral 1506991511 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" \
+      EN work/PC 1506991510
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/RF.vhd" 2017/10/02.23:03:02 P.20131013
+EN work/RF 1507003387 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/RF.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/RF/Behavioral 1507003388 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/RF.vhd" \
+      EN work/RF 1507003387
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" 2017/10/02.19:09:29 P.20131013
+EN work/UC 1506989374 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/UC/Behavioral 1506989375 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" \
+      EN work/UC 1506989374
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/PC.vhd" 2017/09/27.11:35:54 P.20131013
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/sumador.vhd" 2017/09/28.19:51:44 P.20131013
+EN work/sumador 1506646309 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/sumador.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/sumador/Behavioral 1506646310 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/sumador.vhd" \
+      EN work/sumador 1506646309

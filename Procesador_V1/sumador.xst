@@ -1,0 +1,5 @@
+set -tmpdir "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/xst/projnav.tmp"
+set -xsthdpdir "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/xst"
+elaborate
+-ifn sumador.prj
+-ifmt mixed

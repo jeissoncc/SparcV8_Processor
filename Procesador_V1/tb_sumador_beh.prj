@@ -1,0 +1,2 @@
+vhdl work "sumador.vhd"
+vhdl work "tb_sumador.vhd"

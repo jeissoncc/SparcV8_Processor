@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/PC.xst" -ofn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/PC.syr" 
+xst -intstyle ise -ifn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/PC.xst" -ofn "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/PC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "PC.ngc" PC.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o PC_map.ncd PC.ngd PC.pcf 

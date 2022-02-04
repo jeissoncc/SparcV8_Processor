@@ -1,0 +1,10 @@
+AR rf behavioral "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/RF.vhd" sub00/vhpl09 1507003388
+AR uc behavioral "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" sub00/vhpl07 1506989375
+AR alu behavioral "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" sub00/vhpl05 1506987596
+EN pc NULL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" sub00/vhpl00 1506991510
+AR sumador behavioral "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/sumador.vhd" sub00/vhpl03 1506646310
+EN rf NULL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/RF.vhd" sub00/vhpl08 1507003387
+EN uc NULL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" sub00/vhpl06 1506989374
+EN sumador NULL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/ProgramCounter/sumador.vhd" sub00/vhpl02 1506646309
+AR pc behavioral "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" sub00/vhpl01 1506991511
+EN alu NULL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" sub00/vhpl04 1506987595
